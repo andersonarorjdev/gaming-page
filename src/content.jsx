@@ -8,6 +8,7 @@ import Globalreset from './styles/Global-styles';
 import Main from './components/main/main';
 import FirstCards from './components/cardsfirst/cardsfirst';
 import SecondCards from './components/cardssecond/cardssecond';
+import Footer from './components/footer/footer';
 
 //Imports to images and assets
 import Banner from './assets/banner.png';
@@ -19,6 +20,7 @@ const content = props =>{
         <Main image={Banner}/>
         <FirstCards />
         <SecondCards />
+        <Footer />
       </>
     )
 }
