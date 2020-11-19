@@ -8,6 +8,10 @@ import styled from 'styled-components';
     width:100%;
     height:70vh;
 
+@media(max-width:800px){
+    height:29vh;
+}
+
 `;
 
 export default MainBg;
