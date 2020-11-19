@@ -57,3 +57,25 @@ export const MenuHidden = styled.button`
         display:none;
     }
 `;
+
+export const MobileMenuList = styled.ul`
+    display:flex;
+    flex-direction:column;
+    justify-content:space-around;
+    align-items:center;  
+    height:100%;
+    list-style:none;
+
+    a{
+        text-decoration:none;
+        color:#FF017B;
+        font-style:italic;
+        font-weight:bolder;
+    }
+
+    a:hover{
+        border-bottom:3PX solid #FFFFFF;
+        padding-bottom:5px;
+        transition:0.3s;
+    }
+`;
