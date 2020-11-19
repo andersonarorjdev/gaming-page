@@ -28,6 +28,7 @@
 - ReactJs (Lib performática e de grande escalabilidade, por sua componentização e grande quantia de documentação na Web).
 - Styled-Components💅 (Lib usada para poder converter o CSS em Javascript, o que facilita a estilização dos componentes de forma individual e também ajuda na organização do código. Também pode ser percebido um  aumento de performance no carregamento do layout do que os arquivos em .CSS padrão.).
 - Gerenciador de pacotes YARN🐈 (Optado por gosto pessoal).
+-Projeto foi optado por usar a metodologia MOBILE FIRST📲 tendo em vista de que a maioria dos acessos são por dispositivos menores.
 
 Esses foram as techs usadas e os critérios para cada escolha.👨🏽‍💻🤷🏽‍♂️
 
