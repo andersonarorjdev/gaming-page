@@ -44,4 +44,8 @@ p{
     
 }
 
+@media(max-width:1000px){
+    margin-top:60px;
+}
+
 `;

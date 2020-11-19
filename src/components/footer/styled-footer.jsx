@@ -33,4 +33,9 @@ export const FooterTag =  styled.div`
             }   
     }
 
+    @media(max-width:650px){
+        align-items:center;
+        justify-content:center;
+    }
+
 `;

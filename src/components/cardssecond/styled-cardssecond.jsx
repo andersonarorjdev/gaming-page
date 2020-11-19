@@ -13,6 +13,10 @@ export const SecondCardsTag = styled.div`
     @media(max-width:1000px){
         height:100vh;
     }
+
+    @media(max-width:700px){
+        padding:0px 30px;
+    }
 `;
 
 export const SecondCard = styled.div`
