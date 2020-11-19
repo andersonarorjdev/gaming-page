@@ -15,7 +15,7 @@ export const FooterTag =  styled.div`
     /* Estilização para o texto do footer para nao ser necessario ter que criar mais um componente */
     color:#AAAAAA;
     font-size:15px;
-    text-align:left;    
+    text-align:left;
 
     img{
         width:45px;
