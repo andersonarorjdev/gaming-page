@@ -18,8 +18,19 @@ export const FooterTag =  styled.div`
     text-align:left;
 
     img{
-        width:45px;
-        height:45px;
+        width:40px;
+        height:40px;
         margin:0px 10px;
     }
+
+ 
+
+     @media(max-width:1100px){
+        margin-top:100px;
+
+           div{
+                padding-top:20px;  
+            }   
+    }
+
 `;

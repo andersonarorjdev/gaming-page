@@ -9,6 +9,10 @@ export const SecondCardsTag = styled.div`
     flex-direction:row;
     justify-content:space-around;
     flex-wrap: wrap;
+
+    @media(max-width:1000px){
+        height:100vh;
+    }
 `;
 
 export const SecondCard = styled.div`
